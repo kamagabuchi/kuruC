@@ -1,0 +1,1 @@
+int main(void)/*カレーライス*/ {return 0;}

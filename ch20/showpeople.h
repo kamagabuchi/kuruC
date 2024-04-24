@@ -1,0 +1,1 @@
+void showpeople(people data);
